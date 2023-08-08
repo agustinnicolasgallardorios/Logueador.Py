@@ -19,3 +19,5 @@ while cuenta < 2:
 
 if cuenta == 2:
     print("Hemos bloqueado su cuenta")
+
+log = input(" ")
